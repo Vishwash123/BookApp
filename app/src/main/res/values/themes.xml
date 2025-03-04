@@ -6,4 +6,8 @@
     </style>
 
     <style name="Theme.BooksApp" parent="Base.Theme.BooksApp" />
+
+    <style name="TextFieldBackground"  parent="Widget.Design.TextInputLayout">
+        <item name="background">@drawable/textfield_background</item>
+    </style>
 </resources>
